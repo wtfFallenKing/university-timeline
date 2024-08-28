@@ -1,0 +1,8 @@
+g[id]:hover {
+  filter:  opacity(0.8);
+  transition: linear(1s);
+}
+
+g[id] {
+  cursor: pointer;
+}
